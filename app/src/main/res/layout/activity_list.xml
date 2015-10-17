@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:auto="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/rl_container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/app_bg"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/ll_theme_mode"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/white_item_selector_filter"
+        android:orientation="horizontal"
+        android:padding="12dp">
+
+        <TextView
+            android:id="@+id/tv_theme_mode"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_weight="1"
+            android:text="@string/theme_mode"
+            android:textColor="@color/text_content_color"
+            android:textSize="14sp" />
+
+        <com.ldfs.theme.widget.SwitchView
+            android:id="@+id/sv_theme_mode"
+            android:layout_width="48dp"
+            android:layout_height="28dp"
+            auto:sv_checkColor="@color/switch_green"
+            auto:sv_strokeColor="@color/line"
+            auto:sv_unCheckColor="@color/line" />
+
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/lv_list"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+</LinearLayout>

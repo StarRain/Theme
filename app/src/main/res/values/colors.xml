@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 正常模式 -->
+    <color name="app_bg">#EEEEEE</color>
+    <color name="title_color">#FF22292C</color>
+    <color name="menu_bg">#DD58AFFC</color>
+    <color name="menu_line">#FF323232</color>
+    <color name="menu_item_line">#10FFFFFF</color>
+    <color name="line">#FFE5E5E5</color>
+    <color name="menu_progress">#FF4393D8</color>
+    <color name="comment_menu_bg">#FF3E3E3E</color>
+    <color name="top_line">#FF4597E0</color>
+    <color name="comment_text_color">#FFA0A7AE</color>
+    <color name="title_press_color">#FFEFEFEF</color>
+    <color name="title_navigation_color">#FFF5F5F5</color>
+    <color name="share_container_color">#FFF7F7F7</color>
+    <color name="comment_title_color">#FFF7F5F6</color>
+
+
+    <color name="red_content_color">#FF363636</color>
+
+    <color name="mask_bg">#99000000</color>
+    <color name="a_black1">#F7272727</color>
+    <color name="pic_stroke_bg">#FFD6D6D6</color>
+    <color name="black">#FF000000</color>
+    <color name="gray">#E1E1E1</color>
+    <color name="dark_gray">#FFCCCCCC</color>
+    <color name="item_press">#99AAAAAA</color>
+    <color name="gray_share_press">#9b9b9b</color>
+    <color name="a_gray">#28000000</color>
+    <color name="red">#FFFF3333</color>
+    <color name="dark_red">#FFEE6868</color>
+    <color name="violet_red">#e63b53</color>
+    <!-- 紫红色 -->
+    <color name="dark_red_press">#BBEE6868</color>
+    <color name="blue">#FF4EA7FE</color>
+    <color name="dark_blue">#FF4FA6FF</color>
+    <color name="dark_blue_press">#BB4FA6FF</color>
+    <color name="dark_orange">#FFFF6600</color>
+    <color name="orange">#FFFF9900</color>
+    <color name="green">#FF45C018</color>
+    <color name="yellow">#FFCC66</color>
+    <color name="light_green">#FF62D837</color>
+    <color name="green_press">#FF06BE04</color>
+    <color name="dark_green">#FFA3DDA2</color>
+    <color name="orange_press">#BBFF9900</color>
+    <color name="update_flag_red">#FFFC494A</color>
+    <color name="opiton_check_color">#FF4CACF9</color>
+    <color name="opiton_press_color">#FF3392E6</color>
+    <color name="bottom_bar_line">#FFBDC5CC</color>
+    <color name="tab_color">#FFF6F8FA</color>
+    <!-- gai -->
+    <color name="title_text_color">#FF7D868D</color>
+    <color name="content_text_color">#444444</color>
+
+    <!-- 背景色 -->
+    <color name="welcome_bg">#FF4EABFC</color>
+    <color name="joke_option_bg">#FFFCFCFC</color>
+    <color name="update_info_bg">#BB319FFF</color>
+    <color name="third_login_bg">#FF1F303A</color>
+    <color name="choose_title_bg">#FF1B62A2</color>
+    <color name="choose_pic_bg">#FFE1E2E6</color>
+    <color name="gray_transparent_bg">#4E000000</color>
+
+    <!-- 标题字体颜色 -->
+    <color name="text_select_color">#FF309FFF</color>
+    <color name="text_content_color">#FF5D5D5D</color>
+    <color name="gray_text_color">#FF7F868D</color>
+    <color name="user_menu_color">#FFBFC2C1</color>
+    <color name="over_color">#FFFDAA4A</color>
+    <color name="step_color">#FFC2C0C1</color>
+    <!-- 百度移动专用 -->
+    <color name="turntable_btn_color">#FFEF7D00</color>
+    <color name="turntable_btn_press">#AAEF7D00</color>
+
+    <!-- dialog_alert_login -->
+    <color name="main_font_color">#ff333333</color>
+    <color name="second_font_color">#ff999999</color>
+    <color name="inverse_font_color">#ffffffff</color>
+    <color name="background_tab_pressed">#6633B5E5</color>
+    <color name="down_btn_color">#FF4EABFB</color>
+    <color name="down_btn_press">#AA4EABFB</color>
+    <color name="down_open_color">#FF6EB9F4</color>
+    <color name="down_open_press">#AA6EB9F4</color>
+    <color name="bottombar_bg">#DD4EABFC</color>
+    <!-- 今日任务 -->
+    <color name="red_">#FF0000</color>
+    <color name="red_change">#c92e44</color>
+
+    <!-- 首页 -->
+    <color name="navigation_bg">#F8F8F8</color>
+    <color name="tab_text_color">#7c7d81</color>
+    <color name="wx_pagerslidingtabbuttom_text">#eeeeee</color>
+    <color name="tab_press_text_color">#45c018</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="wx_titlebar_line">#353535</color>
+    <color name="transparent">#00000000</color>
+    <color name="a_black">#10000000</color>
+
+
+
+    <!-- 签到 -->
+    <color name="normal_day">#FF444444</color>
+    <color name="sliding_normal_color">#FF666666</color>
+    <color name="sliding_dragtext_color">#D8D8D8</color>
+    <color name="selected_day_background">@color/green</color>
+    <color name="selected_day_text">#FFF2F2F2</color>
+
+    <!-- 点评栏目 -->
+    <color name="wx_text_orange">#ff9900</color>
+    <!-- 文章评论 -->
+    <color name="wx_comment_item_bkg">#f8f7f5</color>
+    <color name="comment_floor_date">#ff808080</color>
+    <color name="comment_floor_username">#ff5191d2</color>
+    <color name="comment_floor_username2">#666666</color>
+    <color name="comment_floor_username3">#536a93</color>
+    <color name="comment_floor_content">#ff545454</color>
+
+    <color name="blue_pressed">#ff0099cc</color>
+    <color name="blue_normal">#ff33b5e5</color>
+    <color name="green_complete">#ff99cc00</color>
+    <color name="purple_progress">#ffaa66cc</color>
+    <color name="red_error">#ffff4444</color>
+
+    <color name="switch_green">#FF0EBB26</color>
+
+    <color name="holo_blue_bright">#ff00ddff</color>
+    <color name="holo_green_light">#ff99cc00</color>
+    <color name="holo_orange_light">#ffffbb33</color>
+    <color name="holo_red_light">#ffff4444</color>
+
+    <color name="guide_check">#FF727C84</color>
+    <color name="search_color">#FF45C018</color>
+
+    <!--分享-->
+    <color name="share_bg">#e7e7e7</color>
+    <color name="share_item_line">#c5c5c6</color>
+
+    <color name="gray1">#FF464646</color>
+    <color name="gray2">#FFCBCBCB</color>
+    <color name="line1">#FFDDDDDD</color>
+    <color name="line2">#FFD0CFC4</color>
+    <color name="line3">#FF999999</color>
+    <color name="a_line1">#A7FFFFFF</color>
+    <color name="dark_yellow">#FFF8F9ED</color>
+
+
+
+    <color name="tab_filter_color">#FFFFFFFF</color>
+    <!--夜间模式部分颜色-->
+    <color name="night_tab_filter_color">#FFFF0000</color>
+    <color name="night_app_bg">#FF151515</color>
+    <color name="night_title_color">#FF111111</color>
+    <color name="filter_gray">#FF444444</color>
+    <color name="night_line">#FF333333</color>
+    <color name="night_main_font_color">#ff666666</color>
+    <color name="night_normal_color">#FF999999</color>
+    <color name="night_dark_color">#FFBBBBBB</color>
+    <color name="night_white">#FF222222</color>
+    <color name="night_menu_line">#FF444444</color>
+    <color name="night_navigation_bg">#FF333333</color>
+    <color name="night_filter_color">#FF444444</color>
+
+
+    <color name="night_switch_green">#FF0E6626</color>
+</resources>

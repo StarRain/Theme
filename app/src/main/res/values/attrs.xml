@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <declare-styleable name="DivideLinearLayout">
+        <attr name="dl_itemDivide" format="boolean" />
+        <attr name="dl_divideColor" format="reference|color" />
+        <attr name="dl_dividePadding" format="dimension" />
+        <attr name="dl_divideWidth" format="dimension" />
+        <attr name="dl_leftPadding" format="dimension" />
+        <attr name="dl_itemDivideWidth" format="dimension" />
+        <attr name="dl_itemDivideColor" format="reference" />
+        <attr name="dl_itemDividePadding" format="dimension" />
+        <attr name="dl_divideGravity">
+            <flag name="left" value="0x01" />
+            <flag name="top" value="0x02" />Í
+            <flag name="right" value="0x04" />
+            <flag name="bottom" value="0x08" />
+        </attr>
+    </declare-styleable>
+    <declare-styleable name="FrameView">
+        <attr name="fv_progressInfo" format="string" />
+        <attr name="fv_emptyIcon" format="reference" />
+        <attr name="fv_emptyInfo" format="string" />
+        <attr name="fv_errorIcon" format="reference" />
+        <attr name="fv_errorInfo" format="string" />
+        <attr name="fv_repeatIcon" format="reference" />
+        <attr name="fv_repeatInfo" format="string" />
+        <attr name="fv_customLayout" format="reference" />
+        <attr name="fv_frame">
+            <flag name="container" value="0x0" />
+            <flag name="progress" value="0x1" />
+            <flag name="empty" value="0x2" />
+            <flag name="error" value="0x3" />
+            <flag name="repeat" value="0x4" />
+        </attr>Í
+    </declare-styleable>
+
+    <declare-styleable name="SwitchView">
+        <attr name="sv_strokeWidth" format="dimension" />
+        <attr name="sv_strokeColor" format="color" />
+        <attr name="sv_fillColor" format="color" />
+        <attr name="sv_unCheckWidth" format="dimension" />
+        <attr name="sv_unCheckColor" format="color" />
+        <attr name="sv_checkColor" format="color" />
+    </declare-styleable>
+
+</resources>

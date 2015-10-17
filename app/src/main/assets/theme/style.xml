@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <style name="Light_Style" value="0">
+        <attr name="color_black" value="@color/black" />
+        <attr name="drawable_details_wifi_icon_filter" value="@drawable/details_wifi_icon_filter" />
+        <attr name="drawable_no_data_filter" value="@drawable/no_data_filter" />
+        <attr name="color_app_bg" value="@color/app_bg" />
+        <attr name="color_line" value="@color/line" />
+        <attr name="color_second_font_color" value="@color/second_font_color" />
+        <attr name="color_switch_green" value="@color/switch_green" />
+        <attr name="color_text_content_color" value="@color/text_content_color" />
+        <attr name="drawable_item_selector_filter" value="@drawable/item_selector_filter" />
+        <attr name="drawable_load_repeat_try_selector" value="@drawable/load_repeat_try_selector" />
+        <attr name="drawable_white_item_selector_filter"
+            value="@drawable/white_item_selector_filter" />
+        <attr name="color_transparent" value="@color/transparent" />
+    </style>
+    <style name="Night_Style" value="1">
+        <attr name="color_black" value="@color/white" />
+        <attr name="drawable_details_wifi_icon_filter" value="@drawable/details_wifi_icon_filter" />
+        <attr name="drawable_no_data_filter" value="@drawable/no_data_filter" />
+        <attr name="color_app_bg" value="@color/night_app_bg" />
+        <attr name="color_line" value="@color/night_line" />
+        <attr name="color_second_font_color" value="@color/night_main_font_color" />
+        <attr name="color_switch_green" value="@color/night_switch_green" />
+        <attr name="color_text_content_color" value="@color/night_dark_color" />
+        <attr name="drawable_item_selector_filter" value="@drawable/item_selector_filter" />
+        <attr name="drawable_load_repeat_try_selector"
+            value="@drawable/gray_load_repeat_try_selector" />
+        <attr name="drawable_white_item_selector_filter"
+            value="@drawable/white_item_selector_filter" />
+        <attr name="color_transparent" value="@color/transparent" />
+    </style>
+</resources>

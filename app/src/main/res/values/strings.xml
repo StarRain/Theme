@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Theme</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="list">列表主题切换</string>
+    <string name="custom_layout">自定义控件</string>
+    <string name="include_layout">Include布局</string>
+    <string name="loading">加载中...</string>
+    <string name="no_item">当前没有数据</string>
+    <string name="no_network">很抱歉,网络不给力</string>
+    <string name="network_load_error">网络加载失败,请重试</string>
+    <string name="refresh_try">重试</string>
+    <string name="setting">设置</string>
+    <string name="container_info">我是自定义控件</string>
+    <string name="theme_mode">主题模式</string>
+    <string name="light_mode">日间模式</string>
+    <string name="night_mode">夜间模式</string>
+    <string name="empty_info">空信息</string>
+    <string name="error_info">异常信息</string>
+    <string name="load">加载</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mapped>
+    <layout name="ListActivity">
+        <item name="activity_list" id="rl_container" />
+    </layout>
+    <layout name="MainActivity">
+        <item name="activity_main" id="ll_container" />
+    </layout>
+    <layout name="ViewActivity">
+        <item name="activity_view" id="ll_container" />
+    </layout>
+    <layout name="TextAdapter">
+        <item name="list_item" id="tv_text" />
+    </layout>
+    <layout name="FrameView">
+        <item name="frame_layout" />
+    </layout>
+</mapped>
