@@ -3,4 +3,4 @@
 ![](https://github.com/momodae/Theme/blob/master/shotscreen/light.png)
 ![](https://github.com/momodae/Theme/blob/master/shotscreen/night.png)
 
-具体实现思路见csdn:Arasthel [CSDN](https://github.com/Arasthel)
+具体实现思路见 [CSDN](http://blog.csdn.net/csmco/article/details/49202943)
